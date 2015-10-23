@@ -13,6 +13,10 @@ By. Astrid LunaO
 ---
 
 
+Sorry, I did my best but I have a page now!!!
+
+---
+
 We looked for a sequence from [NCBI](http://www.ncbi.nlm.nih.gov/nuccore/JN598900.1):
 
 ![pic3](pic3.png)
