@@ -32,3 +32,4 @@ Working in Jupiter, I used the commands:
 
 
 ![pic](pic.jpg)
+
